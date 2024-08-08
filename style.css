@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: whitesmoke;
+}
+canvas{
+  background-color:white ;
+  border: 22px ridge gray;
+  /*width: 100%;
+  height: 100vh;*/
+}
